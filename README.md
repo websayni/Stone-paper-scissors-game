@@ -1,2 +1,1 @@
-# Stone-paper-scissors-game
-I used basically 3- languages html,css,js jquery   
+Description:Rock Paper Scissor is a hand game usually played between two people in which each player simultaneously forms one of three shapes with an outstreteched hand.these shape are "rock","paper" and "scissors" This C++ program is aimed at automating one of player called as computerized player and the taking rock,paper or scissor as an input from the used.
